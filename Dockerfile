@@ -1,2 +1,2 @@
-FROM docker pull vhalaharvi/centos
+FROM vhalaharvi/ubuntu 
 
